@@ -57,10 +57,3 @@ npm start
 | `PORT` | Puerto HTTP (default: `3000`) |
 | `PIPEDRIVE_API_TOKEN` / `PIPEDRIVE_PIPELINE_ID` / `PIPEDRIVE_FIELD_CALIFICACION_SQL` | Credenciales del CRM (opcional) |
 
-Tech stack
-Anthropic Claude (Haiku 4.5) — modelo conversacional con tool use
-Slack Bolt + Socket Mode — integración con Slack
-CRM API (Pipedrive) — datos comerciales en tiempo real
-Anthropic Web Search — búsqueda web nativa con citas
-Node.js / Express — backend y health checks
-Railway — deploy
