@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+.DS_Store
+.claude/
+
+# Documentos reales de la base de conocimientos (pueden ser confidenciales)
+knowledge/*
+!knowledge/.gitkeep
