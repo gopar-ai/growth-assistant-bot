@@ -26,8 +26,10 @@ El bot decide automáticamente cuándo consultar el CRM, buscar en internet o us
 ## Features
 
 - *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal por título
-  
- ![Consulta al CRM](docs/screenshots/pipedrive-sqls-blurred.png)
+
+https://github.com/user-attachments/assets/964c8760-53e5-4320-8638-57be76da0af5
+
+
 - *Base de conocimientos propia:* ICP, playbook y metodologías de venta desde archivos `.txt` y `.md`
 - *Búsqueda web automática:* noticias, precios de mercado y regulaciones, citando la fuente
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
