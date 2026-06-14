@@ -20,10 +20,9 @@ Claude (Anthropic, con tool use)
      ▼
 Respuesta en Slack (hilo o DM)
 ```
-
-<img width="548" height="455" alt="FireShot Capture 521 - Detector (Mensajes directos) - Detecta - 3 elementos nuevos - Slack_ -  app slack com" src="https://github.com/user-attachments/assets/6fe055ce-4e93-41fb-b024-d4d75d4d1e65" />
-
 El bot decide automáticamente cuándo consultar el CRM, buscar en internet o usar la base de conocimientos según la pregunta del usuario.
+
+<img width="994" height="351" alt="FireShot Capture 673 - Detector   Slack Integration - Slack Marketplace_ -  detectasecurity slack com" src="https://github.com/user-attachments/assets/d1f88103-c3d7-4085-8b39-6a6e303479c1" />
 
 ## Features
 
