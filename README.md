@@ -1,6 +1,6 @@
 # Slack Assistant Bot
 
-Bot de Slack con inteligencia artificial usando Claude (Anthropic). Responde preguntas en DMs y menciones de canal, con soporte para una base de conocimientos personalizada.
+Bot de Slack con inteligencia artificial usando Claude (Anthropic). Responde preguntas en DMs y menciones de canal, con soporte para una base de conocimientos personalizada y consultas online en tiempo real.
 
 ## Características
 
@@ -29,13 +29,7 @@ Claude (Anthropic, con tool use)
 Respuesta en Slack (hilo o DM)
 ```
 
-Claude decide automáticamente cuándo consultar Pipedrive, buscar en internet o usar la base de conocimientos según la pregunta del usuario.
-
-## Requisitos
-
-- Node.js >= 18
-- Cuenta de Anthropic con API Key
-- Slack App configurada con Socket Mode
+El bot decide automáticamente cuándo consultar Pipedrive, buscar en internet o usar la base de conocimientos según la pregunta del usuario.
 
 ## Configuración de la Slack App
 
