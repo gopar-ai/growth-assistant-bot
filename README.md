@@ -10,6 +10,27 @@ Bot de Slack con inteligencia artificial usando Claude (Anthropic). Responde pre
 - Integración con Pipedrive: SQLs y deals ganados por periodo, actividades del equipo (productividad) y status de un deal por título
 - Health check y estadísticas vía HTTP
 
+## Cómo funciona
+
+```
+Usuario (Slack: DM o @mención en canal)
+     │
+     ▼
+Slack Bot (Bolt + Socket Mode)
+     │
+     ▼
+Claude (Anthropic, con tool use)
+     │
+     ├─► Pipedrive API   ──► SQLs y deals ganados, actividades del equipo, status de un deal
+     ├─► Web Search       ──► noticias, precios de mercado, regulaciones actualizadas
+     └─► Base de conocimientos (/knowledge) ──► ICP, playbook, metodologías de ventas
+     │
+     ▼
+Respuesta en Slack (hilo o DM)
+```
+
+Claude decide automáticamente cuándo consultar Pipedrive, buscar en internet o usar la base de conocimientos según la pregunta del usuario.
+
 ## Requisitos
 
 - Node.js >= 18
