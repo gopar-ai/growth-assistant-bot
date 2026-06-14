@@ -31,6 +31,16 @@ El bot decide automáticamente cuándo consultar el CRM, buscar en internet o us
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
 - *Health check y estadísticas* vía HTTP
 
+## Capturas
+
+**Consulta al CRM:**
+
+![Consulta al CRM](docs/screenshots/pipedrive-sqls-blurred.png)
+
+**Búsqueda web de competidores:**
+
+![Búsqueda web de competidores](docs/screenshots/web-search-competidores.png)
+
 ## Setup
 
 ```bash
