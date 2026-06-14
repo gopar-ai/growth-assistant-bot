@@ -34,15 +34,6 @@ Claude decide automáticamente cuándo consultar el CRM, buscar en internet o us
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
 - *Health check y estadísticas* vía HTTP
 
-## Tech stack
-
-- **Anthropic Claude (Haiku 4.5)** — modelo conversacional con tool use
-- **Slack Bolt + Socket Mode** — integración con Slack
-- **CRM API (Pipedrive)** — datos comerciales en tiempo real
-- **Anthropic Web Search** — búsqueda web nativa con citas
-- **Node.js / Express** — backend y health checks
-- **Railway** — deploy
-
 ## Setup
 
 ```bash
@@ -59,3 +50,12 @@ npm start
 | `SLACK_BOT_TOKEN` / `SLACK_SIGNING_SECRET` / `SLACK_APP_TOKEN` | Credenciales de la Slack App (Socket Mode) |
 | `PORT` | Puerto HTTP (default: `3000`) |
 | `PIPEDRIVE_API_TOKEN` / `PIPEDRIVE_PIPELINE_ID` / `PIPEDRIVE_FIELD_CALIFICACION_SQL` | Credenciales del CRM (opcional) |
+
+## Tech stack
+
+- **Anthropic Claude (Haiku 4.5)** — modelo conversacional con tool use
+- **Slack Bolt + Socket Mode** — integración con Slack
+- **CRM API (Pipedrive)** — datos comerciales en tiempo real
+- **Anthropic Web Search** — búsqueda web nativa con citas
+- **Node.js / Express** — backend y health checks
+- **Railway** — deploy
