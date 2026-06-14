@@ -26,9 +26,9 @@ El bot decide automáticamente cuándo consultar el CRM, buscar en internet o us
 
 ## Features
 
-- *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal por título
+- *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal
 - *Base de conocimientos propia:* ICP, playbook y metodologías de venta desde archivos `.txt` y `.md`
-- *Búsqueda web automática:* noticias, precios de mercado y regulaciones, citando la fuente
+- *Búsqueda web automática:* noticias, precios de mercado y benchmark, citando la fuente
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
 - *Health check y estadísticas* vía HTTP
 
