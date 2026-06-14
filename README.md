@@ -32,7 +32,7 @@ El bot decide automáticamente cuándo consultar el CRM, buscar en internet o us
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
 - *Health check y estadísticas* vía HTTP
 
-<img width="1400" height="1040" alt="assistant" src="https://github.com/user-attachments/assets/08b9657d-3c24-4a1b-a2cb-f4bc42382b3b" />
+![Demo del bot respondiendo sobre un deal en el CRM](docs/screenshots/assistant-blurred.gif)
 
 ## Setup
 
