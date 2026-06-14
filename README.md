@@ -21,19 +21,19 @@ Claude (Anthropic, con tool use)
 Respuesta en Slack (hilo o DM)
 ```
 
+<img width="548" height="455" alt="FireShot Capture 521 - Detector (Mensajes directos) - Detecta - 3 elementos nuevos - Slack_ -  app slack com" src="https://github.com/user-attachments/assets/6fe055ce-4e93-41fb-b024-d4d75d4d1e65" />
+
 El bot decide automáticamente cuándo consultar el CRM, buscar en internet o usar la base de conocimientos según la pregunta del usuario.
 
 ## Features
 
 - *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal por título
-
-https://github.com/user-attachments/assets/964c8760-53e5-4320-8638-57be76da0af5
-
-
 - *Base de conocimientos propia:* ICP, playbook y metodologías de venta desde archivos `.txt` y `.md`
 - *Búsqueda web automática:* noticias, precios de mercado y regulaciones, citando la fuente
 - *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
 - *Health check y estadísticas* vía HTTP
+
+<img width="1400" height="1040" alt="assistant" src="https://github.com/user-attachments/assets/08b9657d-3c24-4a1b-a2cb-f4bc42382b3b" />
 
 ## Setup
 
