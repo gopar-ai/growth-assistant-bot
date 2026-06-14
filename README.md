@@ -1,6 +1,6 @@
 # Bot asistente de Growth
 
-Bot de Slack con IA para equipos comerciales: responde preguntas en lenguaje natural usando datos en tiempo real del CRM, una base de conocimientos interna y búsqueda web — todo en una misma conversación.
+Bot de Slack con IA para equipos comerciales: responde preguntas en lenguaje natural usando datos en tiempo real del CRM, una base de conocimientos interna y búsqueda web.
 
 ## Cómo funciona
 
