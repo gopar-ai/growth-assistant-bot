@@ -25,11 +25,11 @@ Claude decide automáticamente cuándo consultar el CRM, buscar en internet o us
 
 ## Features
 
-- 📊 *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal por título
-- 📚 *Base de conocimientos propia:* ICP, playbook y metodologías de venta desde archivos `.txt`, `.md` y `.pdf`
-- 🌐 *Búsqueda web automática:* noticias, precios de mercado y regulaciones, citando la fuente
-- 🧵 *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
-- ✅ *Health check y estadísticas* vía HTTP
+- *CRM en tiempo real:* SQLs y deals ganados por periodo, actividades del equipo (productividad), status de un deal por título
+- *Base de conocimientos propia:* ICP, playbook y metodologías de venta desde archivos `.txt`, `.md` y `.pdf`
+- *Búsqueda web automática:* noticias, precios de mercado y regulaciones, citando la fuente
+- *Contexto por usuario:* mantiene historial de conversación en DMs y menciones de canal
+- *Health check y estadísticas* vía HTTP
 
 ## Tech stack
 
