@@ -1,4 +1,4 @@
-# Slack Assistant Bot
+# Bot asistente de Growth
 
 Bot de Slack con inteligencia artificial usando Claude (Anthropic). Responde preguntas en DMs y menciones de canal, con soporte para una base de conocimientos personalizada y consultas online en tiempo real.
 
